@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  title: 'NAZIM.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Nazim Uddin',
+  role: 'Front End Developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'Hello! I am Nazim, a front-end developer and a guy slighty obsessed for code quality. I enjoy working collaboratively but can also run with projects on my own. I am currently available for freelance work or any remote job. If you have a project that you want to get started or think you need my help with something, then get in touch.',
+  resume: 'https://drive.google.com/file/d/1ZP045te8F_uKDkDcC85sDCEHgTyaqqZa/view?usp=drive_link',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://linkedin.com/in/nazim-uddin6',
+    github: 'https://github.com/NAZIM06',
   },
 }
 
@@ -65,7 +65,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'nazimuddin2106@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
