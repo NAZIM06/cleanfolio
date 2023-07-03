@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'https://nazim06.github.io/cleanfolio/',
   title: 'NAZIM.',
 }
 
@@ -10,7 +10,7 @@ const about = {
   role: 'Front End Developer',
   description:
     'Hello! I am Nazim, a front-end developer and a guy slighty obsessed for code quality. I enjoy working collaboratively but can also run with projects on my own. I am currently available for freelance work or any remote job. If you have a project that you want to get started or think you need my help with something, then get in touch.',
-  resume: 'https://drive.google.com/file/d/1ZP045te8F_uKDkDcC85sDCEHgTyaqqZa/view?usp=drive_link',
+  resume: 'https://drive.google.com/file/d/1ZP045te8F_uKDkDcC85sDCEHgTyaqqZa/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com/in/nazim-uddin6',
     github: 'https://github.com/NAZIM06',
@@ -21,28 +21,28 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Camp Knowledge',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A Language Learning Website.',
+    stack: ['React', 'Node', 'Express.Js'],
+    sourceCode: 'https://github.com/NAZIM06/camp-knowledge-client',
+    livePreview: 'https://project-alpha-c5335.web.app/',
   },
   {
-    name: 'Project 2',
+    name: 'Toytopia',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A Full Stack Sports Car Toy Store',
+    stack: ['React', 'Tailwind', 'Firebase'],
+    sourceCode: 'https://github.com/NAZIM06/toytopia',
+    livePreview: 'https://toytopia-96a4c.web.app/',
   },
   {
-    name: 'Project 3',
+    name: 'Chef’s Table',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Arabian Cuisine Website',
+    stack: ['JavaScript', 'Tailwind', 'React'],
+    sourceCode: 'https://github.com/NAZIM06/chefs-table',
+    livePreview: 'https://chef-s-table-84d17.web.app/',
   },
 ]
 
@@ -53,14 +53,14 @@ const skills = [
   'CSS',
   'JavaScript',
   'TypeScript',
+  'Tailwind',
+  'bootstrap',
   'React',
   'Redux',
   'SASS',
   'Material UI',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Firebase',
 ]
 
 const contact = {
