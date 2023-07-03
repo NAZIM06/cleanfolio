@@ -37,7 +37,7 @@ const projects = [
     livePreview: 'https://toytopia-96a4c.web.app/',
   },
   {
-    name: 'Chef’s Table',
+    name: 'Chefs Table',
     description:
       'Arabian Cuisine Website',
     stack: ['JavaScript', 'Tailwind', 'React'],
